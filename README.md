@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Kerolos Ayad</h1>
 <h3 align="center">DevOps Engineer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=keroayad&label=Profile%20views&color=0e75b6&style=flat" alt="keroayad" /> </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=keroayad&label=Profile%20views&color=0e75b6&style=flat" alt="keroayad" /> </p>
-
+<div align=center>
+        <img src="https://raw.githubusercontent.com/AbdEl-RahmanKhaled/AbdEl-RahmanKhaled/main/images/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+</div>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keroayad" alt="keroayad" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/KeroAyad/Kerolos-Ayad/](https://github.com/KeroAyad/Kerolos-Ayad/)
+- 📫 How to reach me **kerolos.ayad@linux.com** or **kerolos.ayad@outlook.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1DIk0B72oYpDhwAm41_iWrAM09r9q3dvJ](https://drive.google.com/drive/folders/1DIk0B72oYpDhwAm41_iWrAM09r9q3dvJ)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/KeroAyad/Kerolos-Ayad/)
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1g4rTZR08FLWCq8HyHr7S3A_KOOWbVlgf/view?usp=sharing)
 
 - ⚡ Fun fact **I'm pretty good at art**
 
